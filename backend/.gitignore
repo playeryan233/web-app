@@ -69,3 +69,17 @@ coverage/
 # 临时文件
 tmp/
 temp/
+
+# Go 特定文件
+*.test
+*.out
+*.prof
+
+# 数据库文件
+*.db
+*.sqlite
+*.sqlite3
+
+# 上传文件目录
+uploads/
+data/
